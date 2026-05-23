@@ -1,6 +1,6 @@
 ## Hello everyone, I'm Sayuri Bhatia 👋
 
-I'm a Duke University graduate interested in research, biology, data science, and the intersection between all 3. I am interested in learning programming using R.
+I'm a Duke University graduate passionate about research, biology, data science, and the intersection between all 3. I am also interested in learning programming using R.
 
 ## Interests
 - Regeneration
