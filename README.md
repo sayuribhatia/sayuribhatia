@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hello everyone, I'm Sayuri Bhatia 👋
+
+A student interested in research, biology, data science, and the intersection between all 3
+
+## Interests
+- Regeneration
+- Biology
+- AI
+- Public Health
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/sayuribhatia)
+[ResearchGate](https://www.researchgate.net/profile/Sayuri-Bhatia)
+[X](https://x.com/sayuribhatia)
+
 
 <!--
 **sayuribhatia/sayuribhatia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
